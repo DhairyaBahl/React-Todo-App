@@ -14,15 +14,15 @@ $ git clone https://github.com/DhairyaBahl/React-Todo-App.git
 ```
 Then install all the required dependencies. Make sure you have npm and node js installed.
 
-##Beginner Tip
+## Beginner Tip
 
 This is a beginner friendly project so it is recommended that you should install the create-react-app and just replace these files there.
 
-##Contributions
+## Contributions
 
 If you want to contribute to this project, you are always welcome.
 
-You can reach me on:
+## You can reach me on
 http://www.linkedin.com/in/dhairya-bahl
 
 Thanks :)
